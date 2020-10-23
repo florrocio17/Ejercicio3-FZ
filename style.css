@@ -1,0 +1,19 @@
+.contenedor {
+    margin: 3rem;
+    padding: 2rem;
+    height: 20rem;
+    width: 20rem;
+}
+h1 {
+    text-align: center;
+}
+input {
+    padding: 0.1rem;
+    margin: 0.1rem;
+}
+#clave {
+    margin-left: 0.95rem;
+}
+#submit {
+    margin-left: 3.8rem;
+}
